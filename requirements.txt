@@ -1,0 +1,6 @@
+customtkinter
+PyMuPDF
+openai
+fitz
+Flask 
+flask-cors
